@@ -90,18 +90,18 @@ Based on the hands-on evaluation, **OpenBao** is the recommended solution becaus
 
 The detailed report, screenshots, methodology, comparison matrix, scorecard, and final recommendation are available here:
 
-📄 **[Secret_Management_POC_Report.pdf](docs/Secret_Management_POC_Report.pdf)**
+📄 **[Secret_Management_POC_Report_By_PrakharPranjay.pdf](docs/Secret_Management_POC_Report_By_PrakharPranjay.pdf)**
 
 ---
 
 ## 📁 Repository Structure
 
 ```text
-secret-managment-vault-comparison-poc-internship/
+prakharpranjay-secret-managment-vault-comparison-poc-internship/
 │
 ├── README.md
 └── docs/
-    └── Secret_Management_POC_Report.pdf
+    └── Secret_Management_POC_Report_By_PrakharPranjay.pdf
 ```
 
 ---
